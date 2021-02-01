@@ -14,4 +14,6 @@ $ yarn install
 
 Execute o comando
 
-### `yarn start`
+```
+$ yarn start
+```
